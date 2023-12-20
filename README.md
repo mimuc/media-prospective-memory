@@ -44,7 +44,7 @@ The easiest way to contribute is to provide feedback! We would love to hear what
 
 Copyright &copy; 2023. [LMU Munich Media Informatics Group](https://www.medien.ifi.lmu.de). All rights reserved.
 
-The [dataset](./data) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the results from consented anonymous participants and was collected by Martina Gluderer and Francesco Chiossi. The contained "source code" (i.e., Python scripts and Jupyter Notebooks) of this work is made available under the terms of [GNU GPLv3](./LICENSE).
+The [dataset](https://osf.io/kzxy7/) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the results from consented anonymous participants and was collected by Martina Gluderer and Francesco Chiossi. The contained "source code" (i.e., Python scripts and Jupyter Notebooks) of this work is made available under the terms of [GNU GPLv3](./LICENSE).
 
 If you find our research is helpful, we would appreciate a citation via:
 
